@@ -7,7 +7,7 @@ window.coisas.defaultNewFile = dirpath => {
     let date = (new Date()).toISOString().split('T')[0]
 
     return Promise.resolve({
-      name: date + '-new-post',
+      name: date + '-new-post.md',
       content: `# New Post
 
 This is a new post. Please write something here that does not mention the fact that it is a new post.`,
