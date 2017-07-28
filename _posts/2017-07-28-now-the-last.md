@@ -1,8 +1,0 @@
----
-title: "Now the last"
-date: "2017-07-28"
-layout: "post"
----
-# Now the last
-
-This is a new post. Please write something here that does not mention the fact that it is a new post.
