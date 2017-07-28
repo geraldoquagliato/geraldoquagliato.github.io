@@ -29,4 +29,4 @@ This is a new post. Please write something here that does not mention the fact t
   }
 }
 
-window.liveSiteURL = 'https://geraldoquagliato.github.io/'
+window.coisas.liveSiteURL = 'https://geraldoquagliato.github.io/'
