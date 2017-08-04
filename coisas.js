@@ -34,7 +34,7 @@ window.coisas.liveSiteURL = 'https://geraldoquagliato.github.io/'
 window.load('https://cdnjs.cloudflare.com/ajax/libs/markdown-it/8.3.1/markdown-it.js')
 window.load('https://cdn.rawgit.com/harttle/liquidjs/4ee2bc96/dist/liquid.min.js')
 
-window.coisas.canPreview = (path, ext) => ext === 'md' || ext === 'html'
+window.coisas.canPreview = (path, ext) => ext === '.md' || ext === '.html'
 window.coisas.generatePreview = (el, {
   path,
   name,
@@ -71,7 +71,7 @@ window.coisas.generatePreview = (el, {
     }
   }, metadata)
 
-  if (ext === 'md') {
+  if (ext === '.md') {
     content = md.render(content)
   }
 
