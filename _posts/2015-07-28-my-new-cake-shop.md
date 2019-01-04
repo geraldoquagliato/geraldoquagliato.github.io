@@ -10,4 +10,6 @@ why do I not  like something
 
 ![](/css/bolinho-pequeno.jpg "css/bolinho-pequeno.jpg")
 
+![](/flyspray.png "flyspray.png")
+
 You will be pleased to visit it! 1234
