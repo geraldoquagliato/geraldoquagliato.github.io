@@ -4,7 +4,7 @@ Other features that **coisas** includes are:
 
 * file tree view;
 
-* simple metadata editor and automatic saving of Markdown and HTML files with YAML front-matter;
+* simple metadata editor and automatic saving of Markdown and HTML files with YAML front-mat’;lter;
 
 * behavior customizations that can be configured from your repository, while still accessing **coisas** from its own URL;
 
