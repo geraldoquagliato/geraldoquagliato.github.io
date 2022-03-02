@@ -2,9 +2,9 @@
 title: "OOOOOOOOOOO New Cake Shop"
 layout: "post"
 ---
-# The new cake shop I’m opening in Durazno:
+The new cake shop I’m opening in Durazno:
 
-why do I not  like something?
+why do I not  like something?![](/about/phpWbgFf4.jpg "about/phpWbgFf4.jpg")
 
 ## This is a markdown file…
 
