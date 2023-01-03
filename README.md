@@ -14,4 +14,6 @@ Other features that **coisas** includes are:
 
 * simple visualization of many file formats (only text files are editable, however).
 
+* xatehtahaethea
+
 ![](/about/phpWbgFf4.jpg "about/phpWbgFf4.jpg")
